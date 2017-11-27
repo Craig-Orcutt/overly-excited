@@ -1,0 +1,1 @@
+Added required Javascript to loop through array. Added if statement to add an "!" after each third word. Added a counter to change to position of array number since array started at 0 and the 4th word would come up with an "!" instead.
